@@ -1,5 +1,6 @@
-fastapi==0.115.12
-uvicorn[standard]==0.34.2
-python-dotenv==1.1.0
-httpx==0.28.1
-numpy==2.2.6
+fastapi
+uvicorn
+numpy
+requests
+beautifulsoup4
+pydantic
